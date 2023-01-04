@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @yezuna
-- 👀 I’m interested in cyber/coding/biking
-- 🌱 I’m currently learning cyber/python/java
-- 💞️ I’m looking to collaborate on anything!! :)
 - 📫 How to reach me: whim#6166
 
 <!---
