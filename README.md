@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @yezuna
+- 🤖 Freshman @ UW
 - 📫 How to reach me: whim#6166
 
 <!---
