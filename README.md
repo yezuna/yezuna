@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yezuna
-- 🤖 Freshman @ UW
-- 📫 How to reach me: whim#6166
+- 🤖 CS @ UW
+- 📫 How to reach me: whim1
 
 <!---
 yezuna/yezuna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
