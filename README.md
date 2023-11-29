@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @yezuna
-- 🤖 CS @ UW
 - 📫 How to reach me: whim1
 
 <!---
